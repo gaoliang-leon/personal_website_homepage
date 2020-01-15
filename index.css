@@ -159,10 +159,11 @@ button:focus{
         font-size: 48px;        
     }
 }
-.about p{
+.about .intro{
     color: #b13144;
     font-size: 28px;
     font-style: italic;
+    text-align: center;
 }
 .about .resume{
     color: #617a86;
