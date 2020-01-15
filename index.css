@@ -123,7 +123,7 @@ button:focus{
     display: flex;
     flex-direction: column;
     justify-content: center;
-    align-items: left;
+    align-items: flex-start;
     margin-bottom: 0;
 }
 .nav-container .nav-item{
@@ -138,7 +138,6 @@ button:focus{
     font-size: 20px;
     font-weight: bold;
     transform: translateX(10px);
-    background-color: ;
 }
 /* about */
 .about{
